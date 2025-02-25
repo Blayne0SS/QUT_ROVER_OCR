@@ -1,0 +1,3 @@
+[console_scripts]
+rover_ocr = rover_ocr_node.rover_ocr:main
+

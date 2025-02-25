@@ -1,0 +1,17 @@
+[0.573s] Invoking command in '/home/blayne/Rover_OCR_Node/build/rover_ocr_node': PYTHONPATH=/home/blayne/Rover_OCR_Node/build/rover_ocr_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/blayne/Rover_OCR_Node/install/rover_ocr_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/blayne/Rover_OCR_Node/build/rover_ocr_node/build --no-deps symlink_data
+[0.807s] running develop
+[0.965s] running egg_info
+[0.965s] writing rover_ocr_node.egg-info/PKG-INFO
+[0.965s] writing dependency_links to rover_ocr_node.egg-info/dependency_links.txt
+[0.966s] writing entry points to rover_ocr_node.egg-info/entry_points.txt
+[0.966s] writing requirements to rover_ocr_node.egg-info/requires.txt
+[0.966s] writing top-level names to rover_ocr_node.egg-info/top_level.txt
+[0.967s] reading manifest file 'rover_ocr_node.egg-info/SOURCES.txt'
+[0.968s] writing manifest file 'rover_ocr_node.egg-info/SOURCES.txt'
+[0.969s] running build_ext
+[0.969s] Creating /home/blayne/Rover_OCR_Node/install/rover_ocr_node/lib/python3.10/site-packages/rover-ocr-node.egg-link (link to .)
+[0.970s] Installing rover_ocr script to /home/blayne/Rover_OCR_Node/install/rover_ocr_node/lib/rover_ocr_node
+[0.970s] 
+[0.970s] Installed /home/blayne/Rover_OCR_Node/build/rover_ocr_node
+[0.970s] running symlink_data
+[0.994s] Invoked command in '/home/blayne/Rover_OCR_Node/build/rover_ocr_node' returned '0': PYTHONPATH=/home/blayne/Rover_OCR_Node/build/rover_ocr_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/blayne/Rover_OCR_Node/install/rover_ocr_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/blayne/Rover_OCR_Node/build/rover_ocr_node/build --no-deps symlink_data

@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: rover-ocr-node
+Version: 1.0.0
+Summary: This package contains the code utilsed to detect text in images. The model use is easyocr. Ubuntu version 22.04, ros 2 humble, cv2
+Home-page: UNKNOWN
+Maintainer: Blayne Strode Smith
+Maintainer-email: n10514821@qut.edu.au, b.strodesmith@gmail.com
+License: TODO: License
+Platform: UNKNOWN
+
+UNKNOWN
+

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>rover_ocr_node</name>
+  <version>0.0.0</version>
+  <description>This package contains code to detect text in images using the EasyOCR model. It works with Ubuntu 22.04, ROS 2 Humble, OpenCV, and more.</description>
+  
+  <maintainer email="n10514821@qut.edu.au">Blayne Strode Smith</maintainer>
+  <maintainer email="b.strodesmith@gmail.com">Blayne Strode Smith</maintainer>  
+  <license>TODO: License declaration</license>
+
+  <!-- Dependencies -->
+  <exec_depend>python3-easyocr</exec_depend>
+  <exec_depend>python3-numpy</exec_depend>
+  <exec_depend>python3-opencv</exec_depend>
+  
+  <exec_depend>python3-pillow</exec_depend>
+
+  <!-- Testing dependencies -->
+  <test_depend>ament_copyright</test_depend>
+  <test_depend>ament_flake8</test_depend>
+  <test_depend>ament_pep257</test_depend>
+  <test_depend>python3-pytest</test_depend>
+
+  <!-- Export build type -->
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
